@@ -15,6 +15,7 @@ Configuration:
 - Sound > Disable DirectSound Creation > checked
 - Runtime > Performance > Store Video Memory in Savestates > unchecked
 - Runtime > Performance > Store Guarded Memory Pages in Savestates > unchecked
+- Arrow keys for controling Tim are buggy with hourglass. Mapping arrow keys to zqsd.
 
 Braid
 -----
@@ -44,12 +45,13 @@ RAM adresses
 Current progress
 ================
 
-- Main hub and World 2 hub: 17.62 s (1057 frames). [Video](http://dl.dropbox.com/u/57820665/braid_start.mkv).
+- Main hub and World 2 hub: 1211 frames. [Outdated video in 1218 frames](http://dl.dropbox.com/u/57820665/braid_start.mkv).
 
 Physics
 =======
 
 Speed is expressed in [internal units]/frame
+
 Acceleration is expressed in [internal units]/frame²
 
 - capped speed on flat surface: 4
