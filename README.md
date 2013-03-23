@@ -45,7 +45,8 @@ RAM adresses
 Current progress
 ================
 
-- Main hub and World 2 hub: 1211 frames. [Outdated video in 1218 frames](http://dl.dropbox.com/u/57820665/braid_start.mkv).
+- Main hub and World 2 hub: 1050 frames. [Outdated video in 1057 frames](http://dl.dropbox.com/u/57820665/braid_start.mkv).
+- 1-1: 3778 frames. [Video](http://dl.dropbox.com/u/57820665/braid_1-1.mkv).
 
 Physics
 =======
