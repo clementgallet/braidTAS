@@ -7,3 +7,4 @@ Current progress
 ================
 
 - World 2 in 2:47. [Video](http://dl.dropbox.com/u/57820665/braid_world2.mkv)
+- World 3, 1-3. [Video](http://dl.dropbox.com/u/57820665/braid_3-123.mkv)
