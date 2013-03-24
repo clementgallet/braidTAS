@@ -6,8 +6,4 @@ This repository holds all files and informations on my current tool-assisted spe
 Current progress
 ================
 
-- Main hub and World 2 hub: 1050 frames (60 rr). [Old video in 1057 frames](http://dl.dropbox.com/u/57820665/braid_start.mkv).
-- 2-1: 3778 frames (360 rr). [Video](http://dl.dropbox.com/u/57820665/braid_2-1.mkv).
-- 2-2 first part: 5189 frames (500 rr). [Video](http://dl.dropbox.com/u/57820665/braid_2-2.mkv)
-- 2-3: 6837 frames (860 rr). [Video](http://dl.dropbox.com/u/57820665/braid_2-3.mkv)
-- 2-2 second part: ???? frames (1100 rr). [Video](http://dl.dropbox.com/u/57820665/braid_2-2bis.mkv)
+- World 2 in 2:47. [Video](http://dl.dropbox.com/u/57820665/braid_world2.mkv)
