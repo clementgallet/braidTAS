@@ -11,24 +11,26 @@ Current progress
 - World 4. [Video](http://www.youtube.com/watch?v=QxNLGkJ6NWE)
 - World 5 stage 1
 
-Current progress
-================
+Stages
+======
 
-Letter W means that this stage uses warp exit.
+Frame counting starts at the first frame where input is effective, and ends at the last input frame (usually `[^]` or `[Z]` input).
+Letter W means that this run uses warp exits.
 
-- stage 2-1: 2453 frames
-- stage 2-2: 1249 frames
-- stage 2-3W: 1235 frames
-- stage 2-2bisW: 912 frames
-- stage 2-4W: 2314 frames
+- stage 2-c: 1039 frames (107 rr)
+- stage 2-1: 2453 frames (1013 rr)
+- stage 2-2: 1249 frames (140 rr)
+- stage 2-3W: 1235 frames (167 rr)
+- stage 2-2bisW: 912 frames (259 rr)
+- stage 2-4: 2895 frames; 2-4W: 2314 frames (441 rr)
 - stage 3-1: 299 frames
 - stage 3-2: 862 frames
 - stage 3-3: 968 frames
 - stage 3-4: 1706 frames
 - stage 3-5W: 2731 frames
 - stage 3-6: 3351 frames
-- stage 3-7: 959 frames
-- stage 3-8: 1846 frames
+- stage 3-7: 959 frames (339 rr)
+- stage 3-8: 2643 frames; 3-8W: 1846 frames (227 rr)
 - stage 4-1: 378 frames (62 rr)
 - stage 4-2: 1678 frames (200 rr)
 - stage 4-3: 1404 frames (137 rr)
