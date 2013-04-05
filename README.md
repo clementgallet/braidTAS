@@ -1,7 +1,7 @@
 Introduction
 ============
 
-This repository holds all files and informations on my current [tool-assisted speedrun](http://en.wikipedia.org/wiki/Tool-assisted_speedrun) of Braid. You can go to the [Wiki](wiki) for detailed information.
+This repository holds all files and informations on my current [tool-assisted speedrun](http://en.wikipedia.org/wiki/Tool-assisted_speedrun) of Braid. You can go to the [Wiki](../../wiki) for detailed information.
 
 Current progress
 ================
