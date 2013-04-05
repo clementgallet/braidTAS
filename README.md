@@ -1,7 +1,7 @@
 Introduction
 ============
 
-This repository holds all files and informations on my current tool-assisted speedrun of Braid. If you don't know what I'm talking about, you can first visit the [Wikipedia page](http://en.wikipedia.org/wiki/Tool-assisted_speedrun), and then browse through the [TASVideo website](http://tasvideos.org/). You can go to the Wiki for detailed information.
+This repository holds all files and informations on my current [tool-assisted speedrun](http://en.wikipedia.org/wiki/Tool-assisted_speedrun) of Braid. You can go to the [Wiki](wiki) for detailed information.
 
 Current progress
 ================
@@ -9,7 +9,7 @@ Current progress
 - World 2. [Video](http://www.youtube.com/watch?v=Wn3APQaAa88)
 - World 3. [Video](http://www.youtube.com/watch?v=yNcUdZAwivM)
 - World 4. [Video](http://www.youtube.com/watch?v=QxNLGkJ6NWE)
-- World 5 stage 1
+- World 5 stages 1-2
 
 Stages
 ======
@@ -39,3 +39,4 @@ Letter W means that this run uses warp exits.
 - stage 4-6: 1387 frames (159 rr)
 - stage 4-7: 2835 frames (347 rr)
 - stage 5-1: 245 frames (19 rr)
+- stage 5-2: 1473 frames (599 rr)
