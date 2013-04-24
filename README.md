@@ -12,6 +12,8 @@ Current progress
 - World 5. [Video](http://www.youtube.com/watch?v=VSaPTQNjwCU)
 - World 6, stages 1-4. [Video](http://www.youtube.com/watch?v=FxqdQ2dBZ-Q)
 - World 6, stage 5. [Video](http://www.youtube.com/watch?v=llnj1gwLEo4)
+- World 6, stage 6. [Video](http://www.youtube.com/watch?v=JlNwjVjQ-jk)
+- World 6, stage 7. [Video](http://www.youtube.com/watch?v=noFP5PXKWlQ)
 
 Stages
 ======
@@ -53,3 +55,4 @@ Letter W means that this run uses warp exits.
 - stage 6-4: 3534 frames (691 rr)
 - stage 6-5: 2691 frames (2103 rr)
 - stage 6-6: 3761 frames (1073 rr)
+- stage 6-7: 2321 frames (193 rr)
