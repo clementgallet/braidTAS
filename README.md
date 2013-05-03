@@ -29,7 +29,7 @@ Letter W means that this run uses warp exits.
 - stage 2-2bis: 1164 frames; 2-2bisW: 912 frames (259 rr)
 - stage 2-4: 2895 frames; 2-4W: 2314 frames (441 rr)
 - stage 3-1: 299 frames (21 rr)
-- stage 3-2: 862 frames (123 rr)
+- stage 3-2: 827 frames (123 rr)
 - stage 3-3: 968 frames (494 rr)
 - stage 3-4: 1706 frames (373 rr)
 - stage 3-5: 2731 frames (232 rr)
