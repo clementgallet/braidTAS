@@ -55,7 +55,7 @@ Letter W means that this run uses warp exits.
 - stage 6-3: 1052 frames (946 rr) [Final]
 - stage 6-4: 3534 frames (691 rr)
 - stage 6-5: 2587 frames (2389 rr) [Final]
-- stage 6-6: 3761 frames (1073 rr)
+- stage 6-6: 3761 frames (1142 rr)
 - stage 6-7: 2321 frames (193 rr)
 - stage 1-4: 265 frames (20 rr)
 - stage 1-3: 391 frames (30 rr)
