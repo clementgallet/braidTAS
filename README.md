@@ -65,3 +65,4 @@ Letter W means that this run uses warp exits.
 - epilogue: 1757 frames (114 rr) [Final]
 - puzzle 2: 155 rr
 - puzzle 3: 78 rr
+- puzzle 4: 73 rr
