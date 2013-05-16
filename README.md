@@ -67,3 +67,7 @@ Letter W means that this run uses warp exits.
 - puzzle 3: 78 rr
 - puzzle 4: 73 rr
 - puzzle 5: 39 rr
+- puzzle 6: 6 rr
+
+Total frames: 80382
+Total re-record: 18921
