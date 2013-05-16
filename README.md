@@ -63,3 +63,5 @@ Letter W means that this run uses warp exits.
 - stage 1-2: 908 frames (104 rr) [Final]
 - stage 1-1: 9010 frames (532 rr) [Final]
 - epilogue: 1757 frames (114 rr) [Final]
+- puzzle 2: 155 rr
+- puzzle 3: 78 rr
